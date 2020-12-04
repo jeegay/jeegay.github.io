@@ -37,7 +37,7 @@ i {
  /* box-shadow: 5px 10px black; */
   background-color: rgba(255,0,0,0.5);
   box-sizing: border-box;
-  background-image: url(../img/wright.jpg);
+  background-image: url(../img/Jee.png);
   background-size: cover;
   background-repeat: no-repeat;
 }
@@ -74,33 +74,33 @@ a:active {
 }
 
 
-.tigercover {
+.wildboarcover {
   float: left;
   width: 40%;
   margin-right: 5%;
 }
 
-.tigercover > img {
+.wildboarcover > img {
   width: 100%;
 }
 
-.sparkcover {
+.selfportcover {
   float: right;
   width: 40%;
   margin-left: 5%;
 }
 
-.sparkcover > img {
+.selfportcover > img {
   width: 100%;
 }
 
-.whalecover {
+.scorpcover {
   float: left;
   width: 40%;
   margin-right: 5%;
 }
 
-.whalecover > img {
+.scorpcover > img {
   width: 100%;
 }
 
@@ -127,7 +127,7 @@ a:active {
 }
 
 table {
-  background-color: lightgray;
+  background-color: lightblue;
   border: 1px solid black;
   width: 100%;
 }
@@ -185,7 +185,7 @@ form {
 .newsletter {
   /* background-color: cyan; */
   height: 25vh;
-  background-image: url(../img/newsbkgd.png);
+  background-image: url(../img/Jee2.png);
   background-size: cover;
   background-repeat: no-repeat;
   display: flex;
